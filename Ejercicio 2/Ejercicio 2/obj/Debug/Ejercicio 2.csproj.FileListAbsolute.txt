@@ -1,0 +1,6 @@
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb

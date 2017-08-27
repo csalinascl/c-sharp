@@ -1,0 +1,7 @@
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe.config
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.exe
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\bin\Debug\Ejercicio 4.pdb
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csprojResolveAssemblyReference.cache
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.csproj.CoreCompileInputs.cache
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.exe
+E:\Google Drive\Estudios\Diplomado\Programación e Informática UNAB\ejercicios\taller-lenguaje\ejercicios-salinas\c-sharp\Ejercicio 4\Ejercicio 4\obj\Debug\Ejercicio 4.pdb
